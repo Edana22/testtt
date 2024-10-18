@@ -1,0 +1,3 @@
+Host gitee.com 
+HostkeyAlgorithms +ssh-rsa 
+PubkeyAcceptedAlgorithms +ssh-rsa
